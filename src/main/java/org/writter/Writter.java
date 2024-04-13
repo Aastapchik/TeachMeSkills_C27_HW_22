@@ -1,4 +1,4 @@
-package org.DOM.writter;
+package org.writter;
 
 import org.model.Sonnet;
 

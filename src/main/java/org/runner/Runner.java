@@ -3,7 +3,7 @@ package org.runner;
 import org.DOM.fabric.FabricSonnetFromXML;
 import org.SAX.Parser;
 import org.model.Sonnet;
-import org.DOM.writter.Writter;
+import org.writter.Writter;
 
 import java.util.Scanner;
 
